@@ -1,3 +1,7 @@
 #name{
     color: orange;
 }
+
+.half-width{
+    width: 45%;
+}
