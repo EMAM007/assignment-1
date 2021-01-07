@@ -1,7 +1,22 @@
-#name{
+.name-highlight{
     color: orange;
 }
 
+
 .half-width{
-    width: 45%;
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-size: 700;
 }
